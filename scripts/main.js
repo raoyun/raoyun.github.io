@@ -10,6 +10,7 @@
   const CANVASID = 'canvas'
 
   let texts = ['hello',   'I MISS YOU']
+  let texts = ['亲爱的黄静!',  '这是我们', '相遇的第64天', '相爱的第56天', 'I Miss You', 'I Love You', '七夕节快乐呀！！！']
 
   let canvas,
     ctx,
